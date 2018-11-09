@@ -2,7 +2,7 @@
 Object Oriented Programming with Java (Module taught at UPMC).
 URL: http://www-connex.lip6.fr/~guigue/wikihomepage/pmwiki.php?n=Course.CourseLI230.
 
-##Programme:
+###Programme:
 
   -Week 1: *Fonctionnement. *Intro/Philo. *1er programme. *1er objet. *Syntaxe.
   
