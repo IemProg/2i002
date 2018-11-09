@@ -1,6 +1,6 @@
 # 2i002
-Object Oriented Programming with Java (University Module taught at UPMC).
-
+Object Oriented Programming with Java (Module taught at UPMC).
+URL: http://www-connex.lip6.fr/~guigue/wikihomepage/pmwiki.php?n=Course.CourseLI230.
 
 ##Programme:
 
